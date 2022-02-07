@@ -1,0 +1,16 @@
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\bin\Debug\net5.0\LongestWorkSlot.exe
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\bin\Debug\net5.0\LongestWorkSlot.deps.json
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\bin\Debug\net5.0\LongestWorkSlot.runtimeconfig.json
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\bin\Debug\net5.0\LongestWorkSlot.runtimeconfig.dev.json
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\bin\Debug\net5.0\LongestWorkSlot.dll
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\bin\Debug\net5.0\ref\LongestWorkSlot.dll
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\bin\Debug\net5.0\LongestWorkSlot.pdb
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\LongestWorkSlot.csproj.AssemblyReference.cache
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\LongestWorkSlot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\LongestWorkSlot.AssemblyInfoInputs.cache
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\LongestWorkSlot.AssemblyInfo.cs
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\LongestWorkSlot.csproj.CoreCompileInputs.cache
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\LongestWorkSlot.dll
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\ref\LongestWorkSlot.dll
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\LongestWorkSlot.pdb
+C:\Users\refik\source\repos\LongestWorkSlot\LongestWorkSlot\obj\Debug\net5.0\LongestWorkSlot.genruntimeconfig.cache
